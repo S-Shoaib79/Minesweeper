@@ -1,4 +1,5 @@
 # Minesweeper
+The entire game is coded using char data type only.
 A C++ implementation of Minesweeper based on the classic game incorporating advanced features like flagging, login signup system. score board display and time tracking
 
 It begins with singup and login facility with each account encrypted and specific to a user.
